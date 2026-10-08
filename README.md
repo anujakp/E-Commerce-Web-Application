@@ -85,7 +85,7 @@ npm run dev
 Open the URL shown by Vite, normally:
 
 ```text
-http://localhost:5173
+http://localhost:5174
 ```
 
 ## API
